@@ -1,7 +1,7 @@
-- Name                 : I’m Vaibhav S. Awasarkar
+- Name                 : Vaibhav S. Awasarkar
 - Area of interest     : Programming / Development, Optimistic science, Sports, Gaming, Geo-Politics, Reading
 - Skills               : .Net, MSSQL Server, Bootstrap, HTML / CSS / JS  
-- currently learning   : .Net Core, WebAPI, Angular
+- Currently learning   : .Net Core, WebAPI, Angular
 - Will Learn           : Azure DevOps
 - Education            : Bachelors of Technology in CSE
 - Fun fact             : My favourite english word is 'BumberShoot'
